@@ -1,0 +1,13 @@
+{
+  "name": "mixed-inspirational-messages",
+  "version": "1.0.0",
+  "description": "Random inspirational message generator",
+  "main": "Mixed_Project.js",
+  "scripts": {
+    "start": "node Mixed_Project.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["inspiration", "motivation", "message-generator"],
+  "author": "Catalin Fulea",
+  "license": "MIT"
+}
