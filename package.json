@@ -5,6 +5,7 @@
   "main": "Mixed_Project.js",
   "scripts": {
     "start": "node Mixed_Project.js",
+    "interactive": "node Interactive_Mixed_Project.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["inspiration", "motivation", "message-generator"],
